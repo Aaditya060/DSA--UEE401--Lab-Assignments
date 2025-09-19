@@ -1,4 +1,4 @@
-3rd CODE: 
+//3rd CODE: 
 #include <stdio.h> 
 void traverse(int *arr, int n) { 
     for (int i = 0; i < n; i++) printf("%d ", *(arr + i)); 
